@@ -1,8 +1,8 @@
 {
-    "id": "c7351d91-ff79-41bb-9e47-2cda88069a39",
+    "id": "4a18ec3a-2e6b-4ad1-9496-c30088efce42",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_sun",
+    "name": "obj_doggie",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "0bcb4c3f-2e85-4cb9-ae9a-64ef69716282",
+    "spriteId": "26999dcf-ded8-4e57-b555-211e7e15f94c",
     "visible": true
 }
