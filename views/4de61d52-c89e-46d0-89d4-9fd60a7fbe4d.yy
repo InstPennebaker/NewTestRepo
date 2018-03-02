@@ -4,7 +4,8 @@
     "mvc": "1.1",
     "name": "4de61d52-c89e-46d0-89d4-9fd60a7fbe4d",
     "children": [
-        "7634917f-573e-40d7-8b3f-03a954f5df9c"
+        "7634917f-573e-40d7-8b3f-03a954f5df9c",
+        "30ee17a6-6829-42f4-8203-d6538a322a47"
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
