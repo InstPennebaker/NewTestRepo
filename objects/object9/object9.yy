@@ -1,8 +1,8 @@
 {
-    "id": "f4d15359-124b-4cc3-92cc-81049f159063",
+    "id": "238f14b6-b906-4dd3-a94e-bce6aacc3d96",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_noah",
+    "name": "object9",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "9352d41d-f364-40c5-a2bb-4f536659394d",
+    "spriteId": "1d5b079a-2b41-4cd2-8d17-daee7b2e744b",
     "visible": true
 }
