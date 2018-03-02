@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "62f159c6-6932-4da3-8114-2af4dce82dd0",
+            "Value": {
+                "id": "986e7326-1cc9-432a-bc82-57a8aeab5269",
+                "resourcePath": "objects\\obj_djp\\obj_djp.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "64f6bcb6-96f1-4e45-bf47-a436aacbeb7b",
             "Value": {
                 "id": "3e842fab-6fc5-484a-968d-8e66c70ff7f3",
@@ -164,6 +172,14 @@
                 "id": "c70e3c6c-b9c9-45fd-b045-1d30fe3fc65f",
                 "resourcePath": "views\\66fc11be-813c-4dcb-b7e7-3649adb8f11b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6f7348e7-d2ab-427b-b6af-b89bd2ce9a60",
+            "Value": {
+                "id": "8f8fc072-7ca8-4977-85f3-065d95b2fa9e",
+                "resourcePath": "sprites\\spr_djp\\spr_djp.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -255,6 +271,14 @@
             }
         },
         {
+            "Key": "c8f99380-8277-46f5-84a1-0072361db02a",
+            "Value": {
+                "id": "197f13b4-e631-4fe9-830f-de9df9c89075",
+                "resourcePath": "views\\c8f99380-8277-46f5-84a1-0072361db02a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "cac0ddc9-4f6b-42ad-abb4-830a7e9cd9df",
             "Value": {
                 "id": "4398cb6b-b670-474f-a434-7de48ec1f675",
@@ -308,6 +332,14 @@
                 "id": "44461867-43f7-4a61-be88-4da5a080db1d",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f14dcb8b-3563-4234-a4dc-86db61af37b8",
+            "Value": {
+                "id": "668dc44a-55b3-4bf0-a4d0-b0a4ac4c964a",
+                "resourcePath": "views\\f14dcb8b-3563-4234-a4dc-86db61af37b8.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
