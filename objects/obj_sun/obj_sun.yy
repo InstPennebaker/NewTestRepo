@@ -1,8 +1,8 @@
 {
-    "id": "a0d843e9-5db4-4597-8d13-1846d3d247aa",
+    "id": "0b97fe08-3426-42f1-a21e-006d27c26f52",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object9",
+    "name": "obj_sun",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "4454695c-f7ea-42ff-833c-8b7176c13780",
+    "spriteId": "633922c1-1ba1-4017-babb-2ce77dbfc18d",
     "visible": true
 }
