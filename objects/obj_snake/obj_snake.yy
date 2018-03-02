@@ -1,8 +1,8 @@
 {
-    "id": "401c9762-1ac1-4a8e-ac9a-ffeb4415cbf7",
+    "id": "77070fbc-655c-4f3a-b6f2-b84c34adaad7",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_test4",
+    "name": "obj_snake",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "886cee8a-e651-4e7c-8707-1730242937c8",
+    "spriteId": "c48250f0-563b-4504-b74e-b54847821c19",
     "visible": true
 }
