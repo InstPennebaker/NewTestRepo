@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "26999dcf-ded8-4e57-b555-211e7e15f94c",
+            "Value": {
+                "id": "d427c4b9-1e06-4490-b8c1-55104d470385",
+                "resourcePath": "sprites\\spr_doggie\\spr_doggie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "297d0e29-bac9-46c7-89a6-a84c248948ba",
             "Value": {
                 "id": "512f03f9-6d04-4b80-8891-2d1793fd2a1f",
@@ -115,6 +123,14 @@
             "Value": {
                 "id": "e49d7259-822e-4e56-956f-4989d13acdf1",
                 "resourcePath": "objects\\object6\\object6.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4a18ec3a-2e6b-4ad1-9496-c30088efce42",
+            "Value": {
+                "id": "fe9b6b6c-a7c7-4d67-bb77-7ee9377460e9",
+                "resourcePath": "objects\\obj_doggie\\obj_doggie.yy",
                 "resourceType": "GMObject"
             }
         },
