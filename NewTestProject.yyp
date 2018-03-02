@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "179f4c30-3339-4943-acd6-ea397f133e92",
+            "Value": {
+                "id": "cf50d168-73f2-44cd-afcb-c612c9730d86",
+                "resourcePath": "objects\\obj_yup\\obj_yup.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1b3dc792-db7f-4a03-8b07-a8e791f97a97",
             "Value": {
                 "id": "18928a13-2262-41ab-9164-b65230d3f80b",
@@ -156,6 +164,14 @@
                 "id": "42ef67a2-2646-42ed-8236-1c6d91ccfc52",
                 "resourcePath": "objects\\obj_test2\\obj_test2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "531940fe-a0ef-4841-ad20-3702910bb12d",
+            "Value": {
+                "id": "b5aa7e78-04d1-4f83-9aad-2ca93e9eaaf7",
+                "resourcePath": "sprites\\spr_yup\\spr_yup.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -260,14 +276,6 @@
                 "id": "fc55dd8c-da62-4a17-bdb5-a336e78c4bfc",
                 "resourcePath": "objects\\obj_AJ\\obj_AJ.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "348e7adc-0d9d-4699-a3d7-30b9621d6545",
-                "resourcePath": "options\\linux\\options_linux.yy",
-                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -380,14 +388,6 @@
                 "id": "020bc488-79ba-410d-9d69-0183e2c352b6",
                 "resourcePath": "views\\f279f585-4815-4ef4-a650-f11daeb7b601.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "94ab0171-510d-4d4a-b7c0-033ad3a9cb43",
-                "resourcePath": "options\\mac\\options_mac.yy",
-                "resourceType": "GMMacOptions"
             }
         },
         {
